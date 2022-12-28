@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "react-scripts": "5.0.1",
   "scripts": {
     "build": "cd client && react-scripts build",
     "install-client": "cd client && npm install",
